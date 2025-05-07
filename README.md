@@ -16,7 +16,7 @@ Retail operations often suffer from stockouts or overstocking due to inaccurate 
 
 ## 📊 Dataset Description
 
-This project uses a publicly available **retail store inventory dataset** which contains daily inventory and sales records across multiple stores and product categories.
+This project uses a publicly available [**retail store inventory dataset**](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) which contains daily inventory and sales records across multiple stores and product categories.
 
 ### Key Columns:
 
