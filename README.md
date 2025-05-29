@@ -37,7 +37,7 @@ This project uses a publicly available [**retail store inventory dataset**](http
 
 ## 🧱 Project Structure
 
-\`\`\`bash
+```bash
 supply_chain_tool/
 ├── data/
 │ ├── retail_store_inventory_data.xlsx # Raw inventory data
@@ -50,7 +50,7 @@ supply_chain_tool/
 │ ├── alert_generator.py # Low-stock alert engine
 ├── app.py # CLI to trigger alerts
 └── requirements.txt # Python dependencies
-\`\`\`
+```
 
 ---
 
@@ -91,8 +91,8 @@ supply_chain_tool/
 - **Reduction in stockouts** by preemptively alerting for reorder points
 - Modular structure ready for expansion into:
   - Supplier performance tracking
-  - Price optimization
-  - Weather and promotion impact modeling
+  - Price optimisation
+  - Weather and promotion impact modelling
 
 ---
 
@@ -108,7 +108,7 @@ supply_chain_tool/
 
 ## 📂 Installation & Usage
 
-\`\`\`bash
+```bash
 
 # Clone the repo
 
@@ -122,18 +122,18 @@ pip install -r requirements.txt
 # Run alert generator
 
 python app.py
-\`\`\`
+```
 
 To generate new forecasts and charts, open the notebook:
-\`\`\`bash
+```bash
 notebooks/demand_forecasting.ipynb
-\`\`\`
+```
 
 ---
 
 ## 📎 Use Cases
 
-- Inventory optimization in retail chains
+- Inventory optimisation in retail chains
 - Demand planning in FMCG/logistics
 - Sales forecasting dashboards for non-technical teams
 
@@ -141,18 +141,13 @@ notebooks/demand_forecasting.ipynb
 
 ## 🙋‍♂️ Author
 
-**[Your Name]**  
+**[Samuel Adjei]**  
 MSc Computer Science, University of Sussex  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourusername)  
-📫 Reach me via [Email](mailto:your.email@example.com)
+🔗 [LinkedIn Profile](https://linkedin.com/in/samueladjei200)  
+📫 Reach me via [Email](mailto:samueladjei200)
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 ## ⭐ Star This Repo
 
